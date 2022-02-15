@@ -3,7 +3,6 @@
 
 int main() {
 
-
-
-	printf("volkan");
+	printf("volkn\n");
+	printf("we");
 }
